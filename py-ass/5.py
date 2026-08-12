@@ -1,3 +1,4 @@
+#
 print("The rectangle area calculator")
 
 a= int(input("Enter the length of rectangle: "))
